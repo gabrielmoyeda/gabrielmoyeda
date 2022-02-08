@@ -1,3 +1,9 @@
+# Hey there, hope you are doing great!
+
+## Quick overview
+
+I'm from México City and I am a developer, a little bit from me, I love to read, learn and practice sports.
+
 - 👋 Hi, I’m @gabrielmoyeda
 - 👀 I’m interested in SW and Web development, Ethical Hacking
 - 🌱 I’m currently learning PHP, JS, HTML5, POO, CSS3
@@ -6,8 +12,6 @@
 
 
 I like the order of the Readme files, the graphics and statistics, the inctroduction in PHP code was very clever.
-
-Languages: HTML5, CSS3, PHP, JavaScript, TypeScript
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmoyeda&theme=dark&show_icons=true)
 

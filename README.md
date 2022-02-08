@@ -7,7 +7,7 @@
 
 I like the order of the Readme files, the graphics and statistics, the inctroduction in PHP code was very clever.
 
-Languages: HTML5, CSS3, PHP, JavaScript, 
+Languages: HTML5, CSS3, PHP, JavaScript, TypeScript
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmoyeda&theme=dark&show_icons=true)
 

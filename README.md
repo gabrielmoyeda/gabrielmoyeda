@@ -20,15 +20,21 @@ export class Person {
   acknowledgements: string;
   languages: string[];
   
-  constructor(fullName: string, acknowledgements: string, languages: string[]) {
+  constructor(fullName: string, 
+              acknowledgements: string, 
+              languages: string[]) {
+              
     this.fullName = "Gabriel Moyeda";
     this.acknowledgements = "Web Developer, Full Stack, OOP";
-    languages = ["JavaScript", "Python", "TypeScript", "PHP", "Laravel"];
+    languages = ["JavaScript", 
+                 "Python", 
+                 "TypeScript", 
+                 "PHP"];
   }
 }
 ```
 
-## **Lenguajes y herramientas:**  
+## **Languages & Tools:**  
 
 <code><img height="30" src="src/img/htmllogo.png"></code>
 <code><img height="30" src="src/img/csslogo.png"></code>
@@ -42,7 +48,7 @@ export class Person {
 <code><img height="30" src="src/img/vscodelogo.png"></code>
 <code><img height="30" src="src/img/terminal.png"></code>
 
-## **GitHub Estadísticas**
+## **GitHub Statistics**
 
 <a href="https://github.com/gabrielmoyeda">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoyeda&theme=dark&hide_langs_below=1" />
@@ -55,7 +61,7 @@ export class Person {
 [linkedin]: https://www.linkedin.com/in/gabriel-moyeda-estrada/
 <br>
 
-#### Redes Sociales!
+#### Social Networks!
 
 👔 [linkedin][linkedin]
 <!---

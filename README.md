@@ -10,7 +10,7 @@ I'm from México City and I am a tech entusiasthic & developer, a little bit fro
 - 💞️ I’m looking to collaborate on everything, I like to learn something new everyday
 - 📫 You can contact me by gabrielmoyeda@gmail.com
 
-## Mas sobre mi
+## More about me
 
 <img align="right" width="300" src="src/img/giphy.gif" />
 
